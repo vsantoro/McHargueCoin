@@ -1,7 +1,9 @@
 Forked from Litecoin code for McHargue Project
 =====================================
 
-Code changes
+Code changes :
+1. Changed misbehaving peers ban from 24 hours to 72 hours.
+2. 
 
 
 Author : Victor Santoro
