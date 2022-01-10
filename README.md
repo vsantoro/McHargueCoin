@@ -1,3 +1,13 @@
+Forked from Litecoin code for McHargue Project
+=====================================
+
+Code changes
+
+
+Author : Victor Santoro
+Project Owner : Travis McHargue
+
+
 Litecoin Core integration/staging tree
 =====================================
 
