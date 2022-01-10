@@ -13,7 +13,8 @@
 #include <sync.h>
 
 // NOTE: When adjusting this, update rpcnet:setban's help ("24h")
-static constexpr unsigned int DEFAULT_MISBEHAVING_BANTIME = 60 * 60 * 24; // Default 24-hour ban
+// 1.10.22 updated to 3 days ban for misbehaving
+static constexpr unsigned int DEFAULT_MISBEHAVING_BANTIME = 60 * 60 * 72; // Default 24-hour ban
 
 class CClientUIInterface;
 class CNetAddr;
